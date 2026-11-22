@@ -59,6 +59,7 @@ The LEDs automatically change in this sequence:
 Red → Green → Yellow → Red
 
 with different timing intervals.
+https://wokwi.com/projects/481392900788217857
 
 ## Technologies Used
 

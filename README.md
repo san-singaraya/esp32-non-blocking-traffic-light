@@ -12,9 +12,6 @@ The traffic lights are controlled using `millis()` instead of `delay()`. This ma
 - Red LED
 - Yellow LED
 - Green LED
-- 220Ω resistors
-- Jumper wires
-- Breadboard
 
 ## Pin Connections
 
